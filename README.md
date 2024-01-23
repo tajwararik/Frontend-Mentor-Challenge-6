@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/tajwararik/Frontend-Mentor-Challenge-6)
-- Live Site URL: [Live site URL](\ive-site-url.com)
+- Live Site URL: [Live site URL](https://tajwararik.github.io/Frontend-Mentor-Challenge-6/)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@tajwararik](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@tajwararik](https://www.frontendmentor.io/profile/tajwararik)
 
